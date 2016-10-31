@@ -1,7 +1,5 @@
 # ActivityLivecycle
 
-[APK](https://drive.google.com/open?id=0B4nF0jtNvWLSRkEyTWk4dlBCOWs)
-
 ![Screenshots1](https://github.com/Pratiwiratri/ActivityLivecycle/blob/master/Screenshot_2016-10-31-17-42-29%5B1%5D.jpg)
 ![Screenshots1](https://github.com/Pratiwiratri/ActivityLivecycle/blob/master/Screenshot_2016-10-31-17-43-29%5B1%5D.jpg)
 
